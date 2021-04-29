@@ -1,0 +1,10 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+.anchors {
+  padding: 15px;
+  border: white 3px solid;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+}
