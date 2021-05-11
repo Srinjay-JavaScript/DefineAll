@@ -2,7 +2,7 @@ img = '';
 status = "";
 object = [];
 function preload(){
-    img = loadImage("fruit.jpg");
+    img = loadImage("dog2.jpeg");
 }
 function setup(){
     canvas = createCanvas(640, 420);
@@ -53,3 +53,4 @@ function gotObject(error, results){
         object = results;
     }
 }
+

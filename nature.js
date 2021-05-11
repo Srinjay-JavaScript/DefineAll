@@ -2,7 +2,7 @@ img = '';
 status = "";
 object = [];
 function preload(){
-    img = loadImage("fruit.jpg");
+    img = loadImage("couch.jpg");
 }
 function setup(){
     canvas = createCanvas(640, 420);
